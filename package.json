@@ -1,0 +1,16 @@
+{
+  "name": "ownserver",
+  "version": "1.0.0",
+  "description": "this is an my written server",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "own",
+    "server"
+  ],
+  "author": "amit",
+  "license": "ISC"
+}
